@@ -1,4 +1,5 @@
 export class persona{
+[x: string]: any;
 id?:number;
 nombre: string;
 apellido: string;
